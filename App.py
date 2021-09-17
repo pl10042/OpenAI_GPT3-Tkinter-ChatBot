@@ -1,5 +1,5 @@
 from tkinter import *
-from Chat_Bot_Example import ask, append_interaction_to_chat_log
+from GPT3 import ask, append_interaction_to_chat_log
 
 BG_GRAY = "#4E4E4E"
 BG_COLOR = "#4E4E4E"
