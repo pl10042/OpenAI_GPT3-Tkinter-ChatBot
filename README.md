@@ -1,4 +1,4 @@
-# OpenAI_GPT3-Tkinter-ChatBot
+# OpenAI-GPT3-Tkinter-ChatBot
 
 Chat bot app powered by GPT3, interface done with Tkinter. 
 
